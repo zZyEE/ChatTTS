@@ -1,0 +1,4 @@
+[TWITCH_LINK],發了個圖奇連結
+[YOUTUBE_LINK],發了個油兔連結
+[OTHER_LINK],發了個連結
+777,溜溜溜
